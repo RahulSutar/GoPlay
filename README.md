@@ -7,18 +7,18 @@ Various programs are listed in their respective category.
 *"Help others to learn !!!"*
 
 
-## [Strings](https://github.com/mahendra-v/GoPlay/tree/rahuls/str)
+## [Strings](https://github.com/RahulSutar/GoPlay/tree/playground/str)
 
- 1. [Remove duplicate characters from given string](https://github.com/mahendra-v/GoPlay/blob/rahuls/str/removeDuplicate.go)
+ 1. [Remove duplicate characters from given string](https://github.com/RahulSutar/GoPlay/blob/playground/arrays/pairSum.go)
 
-## [Arrays](https://github.com/mahendra-v/GoPlay/tree/rahuls/arrays)
+## [Arrays](https://github.com/RahulSutar/GoPlay/tree/rahuls/arrays)
 
- 1. [Find pairs of integers from given array whose sum is equal input given by the user](https://github.com/mahendra-v/GoPlay/blob/rahuls/arrays/pairSum.go)
+ 1. [Find pairs of integers from given array whose sum is equal input given by the user](https://github.com/RahulSutar/GoPlay/blob/rahuls/arrays/pairSum.go)
 
-## [Data Structures](https://github.com/mahendra-v/GoPlay/tree/rahuls/datastructures)
+## [Data Structures](https://github.com/RahulSutar/GoPlay/tree/rahuls/datastructures)
 
- 1. [Find the middle element from linked list](https://github.com/mahendra-v/GoPlay/blob/rahuls/datastructures/linkedListMiddleElement.go)
+ 1. [Find the middle element from linked list](https://github.com/RahulSutar/GoPlay/blob/rahuls/datastructures/linkedListMiddleElement.go)
 
-## [Sorting Algorithms](https://github.com/mahendra-v/GoPlay/tree/rahuls/sorting) 
+## [Sorting Algorithms](https://github.com/RahulSutar/GoPlay/tree/rahuls/sorting) 
 
- 1. [Selection Sort](https://github.com/mahendra-v/GoPlay/blob/rahuls/sorting/selectionSort.go)
+ 1. [Selection Sort](https://github.com/RahulSutar/GoPlay/blob/rahuls/sorting/selectionSort.go)
