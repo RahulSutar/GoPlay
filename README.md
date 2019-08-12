@@ -23,3 +23,7 @@ Various programs are listed in their respective category.
 
  1. [Selection Sort](https://github.com/RahulSutar/GoPlay/blob/playground/sorting/selectionSort.go)
  2. [Bubble Sort](https://github.com/RahulSutar/GoPlay/blob/playground/sorting/bubbleSort.go)
+ 
+## [Go exercises (gophercises)](https://github.com/RahulSutar/GoPlay/tree/playground/gophercises)
+
+1. [Book Shelf](https://github.com/RahulSutar/GoPlay/tree/playground/gophercises/BookShelf)
