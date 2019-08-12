@@ -10,16 +10,16 @@ Write a simple Book Shelf Web Application which should expose APIs for below ope
     * Book Type (Historical, Fairytale, Horror etc...)
     * Book Description
     * Number of Copies - Number of copies should be calclated at runtime and should not be passed as a part of Create/Add API call. Adding book by same name should just increase number of copies by 1.
-    f. Availability Status - Availability Status should be "unavailable" of number of copies are 0.
+    * Availability Status - Availability Status should be "unavailable" of number of copies are 0.
 2. Add books in bulk from CSV file
-    a. Each CSV can have "n" number of records.
-    b. Each record represents a book with above mentioned information except number of copies and availability status.
-    c. Put CSVs in a folder for the app to consume.
-    d. There can be hundreds of CSV file presend in this folder.
-    e. 10 CSV files should be process in parallel.
+    * Each CSV can have "n" number of records.
+    * Each record represents a book with above mentioned information except number of copies and availability status.
+    * Put CSVs in a folder for the app to consume.
+    * There can be hundreds of CSV file presend in this folder.
+    * 10 CSV files should be process in parallel.
 3. Update book's author, type and description
 4. Delete a book based on its name
-    a. Should just reduce number of copies.
+    * Should just reduce number of copies.
 5. Get book information based on its name
 6. Get all books information
 
@@ -31,8 +31,8 @@ Write a simple Book Shelf Web Application which should expose APIs for below ope
 4. Unit testing implementation along with functional tests (which uses db and not mock data)
 5. Use interfaces where ever applicable.
 6. Keep the ORM implementation
-    a. Abstract or loosely coupled from the service layer.
-    b. Easily switch between databases
+    * Abstract or loosely coupled from the service layer.
+    * Easily switch between databases
 
 
 ## Tools to be used
