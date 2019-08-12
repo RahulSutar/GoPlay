@@ -1,0 +1,7 @@
+appport = "3032"
+logdir = "logs/"
+mongourl = "10.2.10.160:27017"
+mongodbname = "GridFSDB"
+jwtSecret = "CoreStudio"
+minJWTLength = 32
+timeOutInSeconds = 10
