@@ -21,5 +21,5 @@ Various programs are listed in their respective category.
 
 ## [Sorting Algorithms](https://github.com/RahulSutar/GoPlay/tree/playground/sorting) 
 
- 1. [Selection Sort](https://github.com/RahulSutar/GoPlay/blob/playground/sorting/selectionSort.go)\
+ 1. [Selection Sort](https://github.com/RahulSutar/GoPlay/blob/playground/sorting/selectionSort.go)
  2. [Bubble Sort](https://github.com/RahulSutar/GoPlay/blob/playground/sorting/bubbleSort.go)
