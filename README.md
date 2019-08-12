@@ -11,14 +11,14 @@ Various programs are listed in their respective category.
 
  1. [Remove duplicate characters from given string](https://github.com/RahulSutar/GoPlay/blob/playground/arrays/pairSum.go)
 
-## [Arrays](https://github.com/RahulSutar/GoPlay/tree/rahuls/arrays)
+## [Arrays](https://github.com/RahulSutar/GoPlay/tree/playground/arrays)
 
  1. [Find pairs of integers from given array whose sum is equal input given by the user](https://github.com/RahulSutar/GoPlay/blob/rahuls/arrays/pairSum.go)
 
-## [Data Structures](https://github.com/RahulSutar/GoPlay/tree/rahuls/datastructures)
+## [Data Structures](https://github.com/RahulSutar/GoPlay/tree/playground/datastructures)
 
  1. [Find the middle element from linked list](https://github.com/RahulSutar/GoPlay/blob/rahuls/datastructures/linkedListMiddleElement.go)
 
-## [Sorting Algorithms](https://github.com/RahulSutar/GoPlay/tree/rahuls/sorting) 
+## [Sorting Algorithms](https://github.com/RahulSutar/GoPlay/tree/playground/sorting) 
 
  1. [Selection Sort](https://github.com/RahulSutar/GoPlay/blob/rahuls/sorting/selectionSort.go)
