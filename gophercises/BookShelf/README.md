@@ -5,11 +5,11 @@ Write a simple Book Shelf Web Application which should expose APIs for below ope
 ## APIs
 
  1. Create/Add book with following information
-    a. Book name
-    b. Author
-    c. Book Type (Historical, Fairytale, Horror etc...)
-    d. Book Description
-    e. Number of Copies - Number of copies should be calclated at runtime and should not be passed as a part of Create/Add API call. Adding book by same name should just increase number of copies by 1.
+    * Book name
+    * Author
+    * Book Type (Historical, Fairytale, Horror etc...)
+    * Book Description
+    * Number of Copies - Number of copies should be calclated at runtime and should not be passed as a part of Create/Add API call. Adding book by same name should just increase number of copies by 1.
     f. Availability Status - Availability Status should be "unavailable" of number of copies are 0.
 2. Add books in bulk from CSV file
     a. Each CSV can have "n" number of records.
